@@ -1,2 +1,2 @@
-# Python bot
+# OSU CLICKER
  
